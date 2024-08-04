@@ -8,4 +8,4 @@ The theme for this blog is [Chirpy](https://github.com/cotes2020/jekyll-theme-ch
 
 ## License
 
-The content and customizations for this blog are published under the [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) License. Note that the Chirpy theme used here is licensed under the MIT License, and its usage is governed by that license.
+The content and customizations for this blog are published under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. This means you are free to share and adapt the content for non-commercial purposes, as long as you give appropriate credit and share any derivative works under the same license. Note that the Chirpy theme used here is licensed under the MIT License, and its usage is governed by that license.
