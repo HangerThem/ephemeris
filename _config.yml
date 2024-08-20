@@ -6,7 +6,6 @@ tagline: A blog about me and my interests
 description: >-
   A blog about me and my interests
 url: "https://blog.hangerthem.com"
-
 github:
   username: HangerThem
 
@@ -49,13 +48,13 @@ analytics:
 pageviews:
   provider:
 
-theme_mode:
+theme_mode: dark
 
 cdn:
 
 avatar: /assets/img/avatar.png
 
-social_preview_image: 
+social_preview_image:
 
 toc: true
 

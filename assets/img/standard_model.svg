@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="264.263mm"
+   height="223.05363mm"
+   viewBox="0 0 264.26299 223.05363"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="standard_model.svg"
+   inkscape:export-filename="/home/hangerthem/Projects/blog.hangerthem.com/assets/img/standard_model.png"
+   inkscape:export-xdpi="175.08987"
+   inkscape:export-ydpi="175.08987"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="4"
+     inkscape:cx="820.125"
+     inkscape:cy="212.25"
+     inkscape:window-width="1916"
+     inkscape:window-height="1041"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient160756">
+      <stop
+         style="stop-color:#79ff00;stop-opacity:1;"
+         offset="0"
+         id="stop160752" />
+      <stop
+         style="stop-color:#79ff00;stop-opacity:0;"
+         offset="1"
+         id="stop160754" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient160738"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#79ff00;stop-opacity:1;"
+         offset="0"
+         id="stop160736" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153609"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ffbe34;stop-opacity:1;"
+         offset="0"
+         id="stop153605" />
+      <stop
+         style="stop-color:#ffbe34;stop-opacity:0;"
+         offset="1"
+         id="stop153607" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153601"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ef562d;stop-opacity:1;"
+         offset="0"
+         id="stop153597" />
+      <stop
+         style="stop-color:#ef562d;stop-opacity:0;"
+         offset="1"
+         id="stop153599" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153593"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ef562d;stop-opacity:1;"
+         offset="0"
+         id="stop153589" />
+      <stop
+         style="stop-color:#ef562d;stop-opacity:0;"
+         offset="1"
+         id="stop153591" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153585"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#3bc437;stop-opacity:1;"
+         offset="0"
+         id="stop153581" />
+      <stop
+         style="stop-color:#3bc437;stop-opacity:0;"
+         offset="1"
+         id="stop153583" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153577"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#3bc437;stop-opacity:1;"
+         offset="0"
+         id="stop153573" />
+      <stop
+         style="stop-color:#3bc437;stop-opacity:0;"
+         offset="1"
+         id="stop153575" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153569"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#3bc437;stop-opacity:1;"
+         offset="0"
+         id="stop153565" />
+      <stop
+         style="stop-color:#3bc437;stop-opacity:0;"
+         offset="1"
+         id="stop153567" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153561"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#3bc437;stop-opacity:1;"
+         offset="0"
+         id="stop153557" />
+      <stop
+         style="stop-color:#3bc437;stop-opacity:0;"
+         offset="1"
+         id="stop153559" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153553"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#3bc437;stop-opacity:1;"
+         offset="0"
+         id="stop153549" />
+      <stop
+         style="stop-color:#3bc437;stop-opacity:0;"
+         offset="1"
+         id="stop153551" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153545"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#3bc437;stop-opacity:1;"
+         offset="0"
+         id="stop153541" />
+      <stop
+         style="stop-color:#3bc437;stop-opacity:0;"
+         offset="1"
+         id="stop153543" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153537"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:1;"
+         offset="0"
+         id="stop153533" />
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:0;"
+         offset="1"
+         id="stop153535" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153529"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:1;"
+         offset="0"
+         id="stop153525" />
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:0;"
+         offset="1"
+         id="stop153527" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153521"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:1;"
+         offset="0"
+         id="stop153517" />
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:0;"
+         offset="1"
+         id="stop153519" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153513"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ef562d;stop-opacity:1;"
+         offset="0"
+         id="stop153509" />
+      <stop
+         style="stop-color:#ef562d;stop-opacity:0;"
+         offset="1"
+         id="stop153511" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153505"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ef562d;stop-opacity:1;"
+         offset="0"
+         id="stop153501" />
+      <stop
+         style="stop-color:#ef562d;stop-opacity:0;"
+         offset="1"
+         id="stop153503" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153497"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:1;"
+         offset="0"
+         id="stop153493" />
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:0;"
+         offset="1"
+         id="stop153495" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient153489"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:1;"
+         offset="0"
+         id="stop153485" />
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:0;"
+         offset="1"
+         id="stop153487" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient145327"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:1;"
+         offset="0"
+         id="stop145323" />
+      <stop
+         style="stop-color:#ef66ff;stop-opacity:0.00506668"
+         offset="1"
+         id="stop145325" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient145327"
+       id="radialGradient147664"
+       gradientUnits="userSpaceOnUse"
+       cx="40.25515"
+       cy="59.638203"
+       fx="40.25515"
+       fy="59.638203"
+       r="7.9250164"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-7.002171,-12.912152)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient153489"
+       id="radialGradient153649"
+       cx="74.392967"
+       cy="59.638206"
+       fx="74.392967"
+       fy="59.638206"
+       r="7.9250164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-10.215734,-12.912152)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient153497"
+       id="radialGradient153651"
+       cx="108.53081"
+       cy="59.638206"
+       fx="108.53081"
+       fy="59.638206"
+       r="7.9250164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-13.429296,-12.912152)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient153513"
+       id="radialGradient153655"
+       cx="142.66862"
+       cy="93.776031"
+       fx="142.66862"
+       fy="93.776031"
+       r="7.9250164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-13.429296,-16.125715)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient153521"
+       id="radialGradient153657"
+       cx="108.53081"
+       cy="93.776016"
+       fx="108.53081"
+       fy="93.776016"
+       r="7.9250164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-13.429296,-16.125715)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient153529"
+       id="radialGradient153659"
+       cx="74.392967"
+       cy="93.776024"
+       fx="74.392967"
+       fy="93.776024"
+       r="7.9250164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-10.215734,-16.125715)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient153537"
+       id="radialGradient153661"
+       cx="40.25515"
+       cy="93.776016"
+       fx="40.25515"
+       fy="93.776016"
+       r="7.9250164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-7.002171,-16.125715)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient153593"
+       id="radialGradient153675"
+       cx="142.66862"
+       cy="162.05168"
+       fx="142.66862"
+       fy="162.05168"
+       r="7.9250164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-13.429296,-19.339278)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient153601"
+       id="radialGradient153677"
+       cx="142.66862"
+       cy="127.91384"
+       fx="142.66862"
+       fy="127.91384"
+       r="7.9250164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-13.429296,-16.125715)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient153609"
+       id="radialGradient153679"
+       cx="176.80646"
+       cy="59.638206"
+       fx="176.80646"
+       fy="59.638206"
+       r="7.9250164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-13.429296,-12.912152)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient153513"
+       id="radialGradient153703"
+       cx="142.66862"
+       cy="59.638206"
+       fx="142.66862"
+       fy="59.638206"
+       r="7.9250164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-13.429296,-12.912152)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient160756"
+       id="radialGradient160758"
+       cx="40.255146"
+       cy="127.91384"
+       fx="40.255146"
+       fy="127.91384"
+       r="8.0250168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-7.002171,-16.125715)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient160756"
+       id="radialGradient160760"
+       cx="74.392967"
+       cy="127.91384"
+       fx="74.392967"
+       fy="127.91384"
+       r="8.0250168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-10.215734,-16.125715)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient160756"
+       id="radialGradient160762"
+       cx="108.53081"
+       cy="127.91384"
+       fx="108.53081"
+       fy="127.91384"
+       r="8.0250168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-13.429296,-16.125715)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient160756"
+       id="radialGradient160764"
+       cx="108.53081"
+       cy="162.05165"
+       fx="108.53081"
+       fy="162.05165"
+       r="8.0250168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-13.429296,-19.339278)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient160756"
+       id="radialGradient160766"
+       cx="74.392967"
+       cy="162.05167"
+       fx="74.392967"
+       fy="162.05167"
+       r="8.0250168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-10.215734,-19.339278)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient160756"
+       id="radialGradient160768"
+       cx="40.255146"
+       cy="162.05165"
+       fx="40.255146"
+       fy="162.05165"
+       r="8.0250168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5182185,0,0,1.5182185,-7.002171,-19.339278)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.512038,-28.017009)">
+    <rect
+       style="fill:none;stroke:#ef66ff;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858"
+       width="43.794769"
+       height="43.794765"
+       x="32.216553"
+       y="57.341072"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient147664);fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871"
+       cx="54.113941"
+       cy="77.631676"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="35.185543"
+       y="63.264709"
+       id="text44243"><tspan
+         sodipodi:role="line"
+         id="tspan44241"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185543"
+         y="63.264709">≈2.16 MeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185543"
+         y="67.951134"
+         id="tspan72758">⅔</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185543"
+         y="72.637558"
+         id="tspan72760">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;fill:#f2f2f2;stroke-width:0.401694"
+       x="29.690281"
+       y="63.264786"
+       id="text44243-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;fill:#f2f2f2;stroke-width:0.401694"
+         x="29.690281"
+         y="63.264786"
+         id="tspan72760-59">mass</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;fill:#f2f2f2;stroke-width:0.401694"
+         x="29.690281"
+         y="67.95121"
+         id="tspan251882">cahrge</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;fill:#f2f2f2;stroke-width:0.401694"
+         x="29.690281"
+         y="72.637634"
+         id="tspan251884">spin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="54.019939"
+       y="96.006142"
+       id="text44243-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="54.019939"
+         y="96.006142"
+         id="tspan72760-3">up</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.67797px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;stroke-width:0.401694"
+       x="34.701"
+       y="61.99353"
+       id="text44243-3"><tspan
+         sodipodi:role="line"
+         id="tspan44241-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;stroke-width:0.401694"
+         x="34.701"
+         y="61.99353" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="49.799747"
+       y="81.439735"
+       id="text100026"><tspan
+         sodipodi:role="line"
+         id="tspan100024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="49.799747"
+         y="81.439735">u</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7119px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#f2f2f2;fill-opacity:1;stroke-width:0.401694"
+       x="52.50716"
+       y="53.324318"
+       id="text100026-35"><tspan
+         sodipodi:role="line"
+         id="tspan100024-62"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7119px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#f2f2f2;fill-opacity:1;stroke-width:0.401694"
+         x="52.50716"
+         y="53.324318">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7119px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#f2f2f2;fill-opacity:1;stroke-width:0.401694"
+       x="99.515488"
+       y="53.324318"
+       id="text100026-35-9"><tspan
+         sodipodi:role="line"
+         id="tspan100024-62-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7119px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#f2f2f2;fill-opacity:1;stroke-width:0.401694"
+         x="99.515488"
+         y="53.324318">II</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7119px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#f2f2f2;fill-opacity:1;stroke-width:0.401694"
+       x="146.52382"
+       y="53.324318"
+       id="text100026-35-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan100024-62-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7119px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#f2f2f2;fill-opacity:1;stroke-width:0.401694"
+         x="146.52382"
+         y="53.324318">III</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7118px;line-height:0.7;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#ef562d;fill-opacity:1;stroke-width:0.401692"
+       x="203.32814"
+       y="53.195984"
+       id="text100026-35-9-2-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7118px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;text-anchor:middle;fill:#ef562d;fill-opacity:1;stroke-width:0.401692"
+         x="203.32814"
+         y="53.195984"
+         id="tspan109008">VECTOR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7118px;line-height:0.7;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#ffbe34;fill-opacity:1;stroke-width:0.401692"
+       x="254.93199"
+       y="53.196434"
+       id="text100026-35-9-2-0-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7118px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;text-anchor:middle;fill:#ffbe34;fill-opacity:1;stroke-width:0.401692"
+         x="254.93199"
+         y="53.196434"
+         id="tspan109008-6">SCALAR</tspan></text>
+    <rect
+       style="fill:none;stroke:#ef66ff;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-1"
+       width="43.794769"
+       height="43.794765"
+       x="80.831673"
+       y="57.341072"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient153649);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-9"
+       cx="102.72904"
+       cy="77.631676"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="83.800644"
+       y="63.264709"
+       id="text44243-4"><tspan
+         sodipodi:role="line"
+         id="tspan44241-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="63.264709">≈1.273 GeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="67.951134"
+         id="tspan72758-8">⅔</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="72.637558"
+         id="tspan72760-4">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="102.81743"
+       y="96.002739"
+       id="text44243-1-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="102.81743"
+         y="96.002739"
+         id="tspan72760-3-0">charm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="98.888847"
+       y="81.536148"
+       id="text100026-3"><tspan
+         sodipodi:role="line"
+         id="tspan100024-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="98.888847"
+         y="81.536148">c</tspan></text>
+    <rect
+       style="fill:none;stroke:#ef66ff;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-10"
+       width="43.794769"
+       height="43.794765"
+       x="32.216553"
+       y="105.95618"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient153661);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-6"
+       cx="54.113941"
+       cy="126.24677"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="35.185535"
+       y="111.87981"
+       id="text44243-32"><tspan
+         sodipodi:role="line"
+         id="tspan44241-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185535"
+         y="111.87981">≈4.70 MeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185535"
+         y="116.56623"
+         id="tspan72758-6">-⅓</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185535"
+         y="121.25266"
+         id="tspan72760-1">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="54.214893"
+       y="144.62152"
+       id="text44243-1-55"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="54.214893"
+         y="144.62152"
+         id="tspan30098">down</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="49.936321"
+       y="131.87048"
+       id="text100026-7"><tspan
+         sodipodi:role="line"
+         id="tspan100024-65"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="49.936321"
+         y="131.87048">d</tspan></text>
+    <rect
+       style="fill:none;stroke:#ef66ff;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-1-6"
+       width="43.794769"
+       height="43.794765"
+       x="80.831673"
+       y="105.95618"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient153659);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-9-9"
+       cx="102.72904"
+       cy="126.24677"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="83.800644"
+       y="111.87981"
+       id="text44243-4-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="111.87981"
+         id="tspan72760-4-5">≈93.5 MeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="116.56623"
+         id="tspan193469">-⅓</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="121.25266"
+         id="tspan193471">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="102.76386"
+       y="144.61761"
+       id="text44243-1-5-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="102.76386"
+         y="144.61761"
+         id="tspan72760-3-0-5">strange</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="99.394981"
+       y="130.15125"
+       id="text100026-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan100024-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="99.394981"
+         y="130.15125">s</tspan></text>
+    <rect
+       style="fill:none;stroke:#ef66ff;stroke-width:1.75203;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-4"
+       width="43.794769"
+       height="43.794765"
+       x="129.44678"
+       y="57.341072"
+       ry="5.8023591" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#f2f2f2;stroke-width:1.75203;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-4-2"
+       width="141.02631"
+       height="12.793119"
+       x="32.215221"
+       y="28.893064"
+       ry="1.6949577" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#f2f2f2;stroke-width:1.75203;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-4-2-0"
+       width="95.623573"
+       height="12.79316"
+       x="181.27544"
+       y="28.893024"
+       ry="1.6949631" />
+    <circle
+       style="fill:url(#radialGradient153651);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-4"
+       cx="151.34418"
+       cy="77.631676"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="132.41577"
+       y="63.264709"
+       id="text44243-30"><tspan
+         sodipodi:role="line"
+         id="tspan44241-78"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41577"
+         y="63.264709">≈172.57 GeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41577"
+         y="67.951134"
+         id="tspan72758-68">⅔</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41577"
+         y="72.637558"
+         id="tspan72760-8">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="151.41487"
+       y="96.002739"
+       id="text44243-1-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="151.41487"
+         y="96.002739"
+         id="tspan72760-3-3">top</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="148.54034"
+       y="82.532349"
+       id="text100026-1"><tspan
+         sodipodi:role="line"
+         id="tspan100024-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="148.54034"
+         y="82.532349">t</tspan></text>
+    <rect
+       style="fill:none;stroke:#ef562d;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-1-9"
+       width="43.794769"
+       height="43.794765"
+       x="181.27545"
+       y="57.341072"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient153703);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-9-2"
+       cx="203.17294"
+       cy="77.631676"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="184.24449"
+       y="63.264709"
+       id="text44243-4-0"><tspan
+         id="tspan44241-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="63.264709"
+         sodipodi:role="line">0</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="67.951134"
+         id="tspan72758-8-8"
+         sodipodi:role="line">0</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="72.637558"
+         id="tspan72760-4-9"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="203.26427"
+       y="95.998322"
+       id="text44243-1-5-26"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="203.26427"
+         y="95.998322"
+         id="tspan72760-3-0-6">gluon</tspan></text>
+    <rect
+       style="fill:none;stroke:#ffbe34;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-1-9-0"
+       width="43.794769"
+       height="43.794765"
+       x="233.10423"
+       y="57.341068"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient153679);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-9-2-4"
+       cx="255.00163"
+       cy="77.631676"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="236.07321"
+       y="63.264706"
+       id="text44243-4-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan44241-7-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="236.07321"
+         y="63.264706">≈2.16 MeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="236.07321"
+         y="67.951134"
+         id="tspan72758-8-8-8">0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="236.07321"
+         y="72.637558"
+         id="tspan72760-4-9-9">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="254.96921"
+       y="95.983528"
+       id="text44243-1-5-26-7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="254.96921"
+         y="95.983528"
+         id="tspan72760-3-0-6-7">Higgs boson</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="249.81172"
+       y="82.901901"
+       id="text100026-3-49-6"><tspan
+         sodipodi:role="line"
+         id="tspan100024-6-5-43"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="249.81172"
+         y="82.901901">H</tspan></text>
+    <rect
+       style="fill:none;stroke:#ef66ff;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-10-0"
+       width="43.794769"
+       height="43.794765"
+       x="129.44678"
+       y="105.95618"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient153657);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-6-4"
+       cx="151.34418"
+       cy="126.24677"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="132.41576"
+       y="111.87981"
+       id="text44243-32-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41576"
+         y="111.87981"
+         id="tspan72760-1-7">≈4.183 GeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41576"
+         y="116.56623"
+         id="tspan195824">-⅓</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41576"
+         y="121.25266"
+         id="tspan195826">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="151.32649"
+       y="144.6179"
+       id="text44243-1-55-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="151.32649"
+         y="144.6179"
+         id="tspan72760-3-4-7">bottom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="146.61224"
+       y="131.87048"
+       id="text100026-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan100024-65-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="146.61224"
+         y="131.87048">b</tspan></text>
+    <rect
+       style="fill:none;stroke:#ef562d;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-1-6-6"
+       width="43.794769"
+       height="43.794765"
+       x="181.27545"
+       y="105.95618"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient153655);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-9-9-1"
+       cx="203.17294"
+       cy="126.24677"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="184.24449"
+       y="111.87981"
+       id="text44243-4-3-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="111.87981"
+         id="tspan72760-4-5-5">0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="116.56623"
+         id="tspan349177">0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="121.25266"
+         id="tspan349179">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="203.15526"
+       y="144.62038"
+       id="text44243-1-5-2-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="203.15526"
+         y="144.62038"
+         id="tspan72760-3-0-5-4">photon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="198.53227"
+       y="130.576"
+       id="text100026-3-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan100024-6-7-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="198.53227"
+         y="130.576">γ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="198.85875"
+       y="79.832962"
+       id="text100026-3-4-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan100024-6-7-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="198.85875"
+         y="79.832962">g</tspan></text>
+    <rect
+       style="fill:none;stroke:#79ff00;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-9"
+       width="43.794769"
+       height="43.794765"
+       x="32.216553"
+       y="157.78484"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient160758);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-1"
+       cx="54.113937"
+       cy="178.07544"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="35.185535"
+       y="163.70848"
+       id="text44243-7"><tspan
+         sodipodi:role="line"
+         id="tspan44241-71"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185535"
+         y="163.70848">≈0.511 MeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185535"
+         y="168.39491"
+         id="tspan72758-1">-1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185535"
+         y="173.08133"
+         id="tspan72760-5">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="54.202309"
+       y="196.44893"
+       id="text44243-1-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="54.202309"
+         y="196.44893"
+         id="tspan72760-3-7">electron</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="50.064861"
+       y="181.97992"
+       id="text100026-76"><tspan
+         sodipodi:role="line"
+         id="tspan100024-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="50.064861"
+         y="181.97992">e</tspan></text>
+    <rect
+       style="fill:none;stroke:#79ff00;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-1-3"
+       width="43.794769"
+       height="43.794765"
+       x="80.831673"
+       y="157.78484"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient160760);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-9-6"
+       cx="102.72904"
+       cy="178.07544"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="83.800644"
+       y="163.70848"
+       id="text44243-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan44241-7-63"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="163.70848">≈105.66 MeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="168.39491"
+         id="tspan72758-8-9">-1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="173.08133"
+         id="tspan72760-4-4">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="102.71137"
+       y="196.45122"
+       id="text44243-1-5-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="102.71137"
+         y="196.45122"
+         id="tspan72760-3-0-1">muon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="97.934601"
+       y="181.60123"
+       id="text100026-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan100024-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="97.934601"
+         y="181.60123">μ</tspan></text>
+    <rect
+       style="fill:none;stroke:#79ff00;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-10-3"
+       width="43.794769"
+       height="43.794765"
+       x="32.216553"
+       y="206.39999"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient160768);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-6-9"
+       cx="54.113937"
+       cy="226.69061"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="35.185535"
+       y="212.32364"
+       id="text44243-32-0"><tspan
+         sodipodi:role="line"
+         id="tspan44241-0-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185535"
+         y="212.32364">&lt;0.8 eV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185535"
+         y="217.01007"
+         id="tspan72758-6-8">0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="35.185535"
+         y="221.69649"
+         id="tspan72760-1-5">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:0.75;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="54.007885"
+       y="243.04883"
+       id="text44243-1-55-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="54.007885"
+         y="243.04883"
+         id="tspan72760-3-4-9">electron</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="54.007885"
+         y="248.27087"
+         id="tspan251933">neutrino</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:0.75;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="102.623"
+       y="243.04965"
+       id="text44243-1-55-0-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="102.623"
+         y="243.04965"
+         id="tspan72760-3-4-9-0">muon</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="102.623"
+         y="248.2717"
+         id="tspan251933-5">neutrino</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:0.75;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="151.2381"
+       y="243.04816"
+       id="text44243-1-55-0-4-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="151.2381"
+         y="243.04816"
+         id="tspan72760-3-4-9-0-4">tau</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="151.2381"
+         y="248.2702"
+         id="tspan251933-5-6">neutrino</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="48.909168"
+       y="231.08414"
+       id="text100026-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan100024-65-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="48.909168"
+         y="231.08414">ν</tspan></text>
+    <rect
+       style="fill:none;stroke:#79ff00;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-1-6-8"
+       width="43.794769"
+       height="43.794765"
+       x="80.831673"
+       y="206.39999"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient160766);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-9-9-5"
+       cx="102.72904"
+       cy="226.69063"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="83.800644"
+       y="212.32364"
+       id="text44243-4-3-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="212.32364"
+         id="tspan72760-4-5-9">&lt;0.17 MeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="217.01007"
+         id="tspan326408">0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="83.800644"
+         y="221.69649"
+         id="tspan326410">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="97.524269"
+       y="231.08415"
+       id="text100026-3-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan100024-6-7-03"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="97.524269"
+         y="231.08415">ν</tspan></text>
+    <rect
+       style="fill:none;stroke:#79ff00;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-4-0"
+       width="43.794769"
+       height="43.794765"
+       x="129.44678"
+       y="157.78484"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient160762);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-4-4"
+       cx="151.34418"
+       cy="178.07544"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="132.41577"
+       y="163.70848"
+       id="text44243-30-4"><tspan
+         sodipodi:role="line"
+         id="tspan44241-78-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41577"
+         y="163.70848">≈1.777 GeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41577"
+         y="168.39491"
+         id="tspan72758-68-4">-1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41577"
+         y="173.08133"
+         id="tspan72760-8-7">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="151.51503"
+       y="196.45193"
+       id="text44243-1-4-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="151.51503"
+         y="196.45193"
+         id="tspan72760-3-3-3">tau</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="146.29947"
+       y="182.35524"
+       id="text100026-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan100024-4-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="146.29947"
+         y="182.35524">τ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.03391px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="54.615471"
+       y="233.30101"
+       id="text100026-76-0"><tspan
+         sodipodi:role="line"
+         id="tspan100024-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.03391px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="54.615471"
+         y="233.30101">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.03391px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="103.69669"
+       y="233.35043"
+       id="text100026-3-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan100024-6-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.03391px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="103.69669"
+         y="233.35043">μ</tspan></text>
+    <rect
+       style="fill:none;stroke:#ef562d;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-1-9-5"
+       width="43.794769"
+       height="43.794765"
+       x="181.27545"
+       y="157.78484"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient153677);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-9-2-9"
+       cx="203.17294"
+       cy="178.07544"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="184.24449"
+       y="163.70848"
+       id="text44243-4-0-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="163.70848"
+         id="tspan72760-4-9-7">≈91.188 GeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="168.39491"
+         id="tspan368863">0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="173.08133"
+         id="tspan368865">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="203.27309"
+       y="196.44913"
+       id="text44243-1-5-26-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="203.27309"
+         y="196.44913"
+         id="tspan72760-3-0-6-5">Z boson</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="198.86678"
+       y="183.34567"
+       id="text100026-3-49-7"><tspan
+         sodipodi:role="line"
+         id="tspan100024-6-5-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="198.86678"
+         y="183.34567">Z</tspan></text>
+    <rect
+       style="fill:none;stroke:#79ff00;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-10-0-1"
+       width="43.794769"
+       height="43.794765"
+       x="129.44678"
+       y="206.39999"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient160764);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-6-4-8"
+       cx="151.34418"
+       cy="226.69061"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="132.41576"
+       y="212.32364"
+       id="text44243-32-8-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41576"
+         y="212.32364"
+         id="tspan72760-1-7-5">&lt;18.2 MeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41576"
+         y="217.01007"
+         id="tspan330101">0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="132.41576"
+         y="221.69649"
+         id="tspan330103">½</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="146.1394"
+       y="231.08414"
+       id="text100026-7-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan100024-65-2-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="146.1394"
+         y="231.08414">ν</tspan></text>
+    <rect
+       style="fill:none;stroke:#ef562d;stroke-width:1.75178;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858-1-6-6-1"
+       width="43.794769"
+       height="43.794765"
+       x="181.27545"
+       y="206.39999"
+       ry="5.8023591" />
+    <circle
+       style="fill:url(#radialGradient153675);fill-opacity:1;stroke:#4d4d4d;stroke-width:0.303644;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7871-9-9-1-8"
+       cx="203.17294"
+       cy="226.69064"
+       r="12.031906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+       x="184.24449"
+       y="212.32364"
+       id="text44243-4-3-0-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="212.32364"
+         id="tspan72760-4-5-5-3">≈80.369 GeV/c²</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="217.01007"
+         id="tspan351622">±1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74914px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#f2f2f2;stroke-width:0.401694"
+         x="184.24449"
+         y="221.69649"
+         id="tspan351624">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+       x="203.36778"
+       y="245.06436"
+       id="text44243-1-5-2-9-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.96272px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.401694"
+         x="203.36778"
+         y="245.06436"
+         id="tspan72760-3-0-5-4-3">W boson</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="196.90651"
+       y="231.96089"
+       id="text100026-3-4-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan100024-6-7-0-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="196.90651"
+         y="231.96089">W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.03391px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="152.61234"
+       y="233.41476"
+       id="text100026-1-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan100024-4-7-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.03391px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="152.61234"
+         y="233.41476">τ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.67797px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+       x="154.91841"
+       y="257.07431"
+       id="text245519"><tspan
+         sodipodi:role="line"
+         id="tspan245517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.401694"
+         x="154.91841"
+         y="257.07431" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.0677px;line-height:1.25;font-family:sans-serif;writing-mode:lr-tb;direction:rtl;fill:#79ff00;fill-opacity:1;stroke-width:0.401694"
+       x="-251.41354"
+       y="24.181662"
+       id="text65197"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan65195"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';writing-mode:lr-tb;direction:ltr;fill:#79ff00;fill-opacity:1;stroke-width:0.401694"
+         x="-251.41354"
+         y="24.181662"
+         rotate="0 0 0 0 0 0 0 0">LEPTONS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.0675px;line-height:1.25;font-family:sans-serif;writing-mode:lr-tb;direction:rtl;fill:#ef562d;fill-opacity:1;stroke-width:0.401685"
+       x="-251.40843"
+       y="243.58519"
+       id="text65197-7"
+       transform="matrix(0,-1.0000217,0.9999783,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan65195-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.0675px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';writing-mode:lr-tb;direction:ltr;fill:#ef562d;fill-opacity:1;stroke-width:0.401685"
+         x="-251.40843"
+         y="243.58519"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0">GAUGE BOSONS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.0677px;line-height:1.25;font-family:sans-serif;writing-mode:lr-tb;direction:rtl;fill:#ef66ff;fill-opacity:1;stroke-width:0.401694"
+       x="-150.9727"
+       y="24.18099"
+       id="text65197-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan65195-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.0677px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';writing-mode:lr-tb;direction:ltr;fill:#ef66ff;fill-opacity:1;stroke-width:0.401694"
+         x="-150.9727"
+         y="24.18099"
+         rotate="0 0 0 0 0 0 0">QUARKS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49831px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.401694"
+       x="102.56716"
+       y="37.734074"
+       id="text100026-35-6"><tspan
+         sodipodi:role="line"
+         id="tspan100024-62-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49831px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.401694"
+         x="102.56716"
+         y="37.734074">FERMIONS - 3 GENERATIONS OF MATTER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49831px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.401694"
+       x="228.92603"
+       y="37.734058"
+       id="text100026-35-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan100024-62-2-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.49831px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.401694"
+         x="228.92603"
+         y="37.734058">BOSONS - FORCE CARRIERS</tspan></text>
+  </g>
+</svg>

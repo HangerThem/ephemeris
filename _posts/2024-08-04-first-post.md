@@ -5,7 +5,6 @@ author: hangerthem
 date: 2024-08-04 15:00:00 +0200
 categories: [Introduction]
 tags: [introduction, about, tech, books, games]
-pin: true
 math: true
 mermaid: true
 ---

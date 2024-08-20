@@ -5,7 +5,6 @@ author: hangerthem
 date: 2024-08-05 22:00:00 +0200
 categories: [Personal Development]
 tags: [self-development, gamification, productivity, growth]
-pin: true
 math: true
 mermaid: true
 ---
