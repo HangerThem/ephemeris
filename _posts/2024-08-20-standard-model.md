@@ -94,7 +94,7 @@ Quarks are the building blocks of hadrons (protons, neutrons etc.) and are never
 1. **Up ($u$)**
 2. **Down ($d$)**
 3. **Charm ($c$)**
-4. **Strange (s)**
+4. **Strange ($s$)**
 5. **Top ($t$)**
 6. **Bottom ($b$)**
 
