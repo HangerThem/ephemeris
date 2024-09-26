@@ -13,7 +13,7 @@ Hello and welcome to my blog! I'm Frank Borisjuk, and I'm thrilled to have you h
 
 ## A Bit About Me
 
-As you may have read on my "[About](/about)" page, I'm a 20-year-old software developer from Czechia with a passion for technology, reading, and gaming. When I'm not coding, you'll likely find me lost in a good book or enjoying a game with rich storytelling, like *Hollow Knight* or *Stardew Valley*. I also love the creativity involved in *Dungeons & Dragons* and *Warhammer 40k*, where I get to build new worlds and adventures. Additionally, I stay active by going to the gym regularly, which helps me maintain a balanced lifestyle.
+As you may have read on my "[About](/about)" page, I'm a 20-year-old software developer from Czechia with a passion for technology, reading, and gaming. When I'm not coding, you'll likely find me lost in a good book or enjoying a game with rich storytelling, like _Hollow Knight_ or _Stardew Valley_. I also love the creativity involved in _Dungeons & Dragons_ and _Warhammer 40k_, where I get to build new worlds and adventures. Additionally, I stay active by going to the gym regularly, which helps me maintain a balanced lifestyle.
 
 ## What to Expect
 
@@ -29,5 +29,5 @@ I wanted to create a space where I could share not only my knowledge and experie
 
 Thank you for stopping by, and here’s to many interesting discussions and discoveries ahead!
 
-Best,
+Best, <br />
 Frank

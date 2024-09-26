@@ -81,3 +81,6 @@ It is still very early in the development process but I am excited to see where 
 Self-development is a personal journey that requires dedication, commitment, and a growth mindset. By incorporating gamification into your life, you can make the process more enjoyable and rewarding. Whether you choose to use traditional self-development methods or gamified journaling, the key is to find what works best for you and stick with it.
 
 Remember, it is not about being perfect but about making progress each day and becoming the best version of yourself. So, level up your skills, set ambitious goals, and turn your life into a game worth playing!
+
+Best, <br />
+Frank

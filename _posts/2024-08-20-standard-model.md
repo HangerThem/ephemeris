@@ -26,7 +26,6 @@ tags:
 		Mass,
 		Charge
   ]
-pin: true
 math: true
 mermaid: true
 ---
