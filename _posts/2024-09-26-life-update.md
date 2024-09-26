@@ -1,6 +1,6 @@
 ---
 title: Life Update
-description:
+description: A life update post sharing recent events, projects, and personal goals. Learn about my university studies, personal projects, books, and games.
 author: hangerthem
 date: 2024-09-26 10:00:00 +0200
 categories: [Life]
